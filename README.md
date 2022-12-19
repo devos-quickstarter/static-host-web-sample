@@ -1,0 +1,1 @@
+# static-host-web-sample
